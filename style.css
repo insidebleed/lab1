@@ -1,0 +1,22 @@
+body {
+	background-color: #00CED1 ;
+}
+
+button {
+	width: 34px ;
+}
+h1 {
+	color: #9400D3;
+}
+
+p {
+	font-size: 24pt ;
+}
+
+table {
+	background-origin: collapse ;
+}
+
+td,th {
+	border: 1px solid green;
+}
